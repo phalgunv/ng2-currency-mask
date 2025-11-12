@@ -1,9 +1,9 @@
 {
     "name": "ng2-currency-mask",
-    "version": "13.0.3",
+    "version": "14.0.0",
     "peerDependencies": {
-        "@angular/common": ">= 12.x.x",
-        "@angular/core": ">= 12.x.x"
+        "@angular/common": ">= 14.x.x",
+        "@angular/core": ">= 14.x.x"
     },
     "dependencies": {
         "tslib": ">= 2.3.0"
