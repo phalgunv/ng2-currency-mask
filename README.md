@@ -8,6 +8,10 @@ https://stackblitz.com/edit/angular-ivy-bpn8by
 
 ## Getting Started
 
+## Compatibility
+
+This library supports Angular versions 2 through 14 and has been tested with Angular 14.x. If you encounter issues with newer Angular releases, please open an issue.
+
 ### Installing and Importing
 
 Install the package by command:
